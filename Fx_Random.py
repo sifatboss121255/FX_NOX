@@ -1,3 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/python
 import Random
-if __name__ == "__main__":
-    test.main()
+Random.main()
