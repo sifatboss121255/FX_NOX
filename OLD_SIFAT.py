@@ -1,4 +1,4 @@
-
+#decode korte assis abal chuda kor sala decode 
 import marshal,base64,zlib,sys
 
 if "trace" in sys.argv[0].lower():
